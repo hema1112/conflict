@@ -15,8 +15,6 @@ System.out.println("the total average is " +num);
 }
 else
 	System.out.println("no correct value");
-	System.out.println("do next");
-	System.out.println("do with correct value");
 	}
 
 }
