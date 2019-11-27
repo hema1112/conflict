@@ -14,7 +14,7 @@ public class Aarray {
 System.out.println("the total average is " +num);
 }
 else
-	System.out.println("hello");
+	System.out.println("welcome");
 	System.out.println("do with correct value");
 	}
 
